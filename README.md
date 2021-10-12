@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 💡  Write something [here](www.luo41.top)
 - 😄 You can communicate with me through my mailbox 20192132016@m.scnu.edu.cn. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengjianda)](https://github.com/zhengjianda/github-readme-stats)
