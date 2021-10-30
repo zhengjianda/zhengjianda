@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I am now studying at SCNU.
-- 💡  Write something [here](www.luo41.top)
+- 💡  Write something [here](https://www.luo41.top)
 - 😄 Conact with me 20192132016@m.scnu.edu.cn. 
 
 <!--
